@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0847111b-9428-4ba2-aebe-8e13dffc00db" name="192.168.202.120" url="http://192.168.202.120">
+        <fileTransfer rootFolder="/var/www/push.unired.uz" accessType="SFTP" host="192.168.202.120" port="22" sshConfigId="16abb3bb-2853-47db-9bcd-934d35ccbf6a" sshConfig="botir.r@192.168.202.120:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
